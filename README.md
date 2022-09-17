@@ -9,6 +9,8 @@ As one of the most famous and oldest encryption scheme developed in 1977. Its en
 The security of RSA relies on the difficulty of factoring the product of two large prime numbers, the "factoring problem". Breaking RSA encryption is known as the RSA problem. Whether it is as difficult as the factoring problem is an open question. There are no published methods (as for classical computers) to defeat the system if a large enough key is used.
 <br/>
 RSA is a relatively slow algorithm. Because of this, it is not commonly used to directly encrypt user data. More often, RSA is used to transmit shared keys for symmetric-key cryptography, which are then used for bulk encryption–decryption.
+<p>
+The naive version of the RSA proceeeds with taking a prime $p$  
 
 ### DSA
 ### ECC
