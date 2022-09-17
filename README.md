@@ -10,7 +10,7 @@ The security of RSA relies on the difficulty of factoring the product of two lar
 <br/>
 RSA is a relatively slow algorithm. Because of this, it is not commonly used to directly encrypt user data. More often, RSA is used to transmit shared keys for symmetric-key cryptography, which are then used for bulk encryption–decryption.
 <p>
-The naive version of the RSA proceeeds with taking a prime $p$  
+The naive version of the RSA proceeeds with taking a prime $p$ and  
 
 ### DSA
 ### ECC
