@@ -4,7 +4,7 @@ Today, there are mainly two types of crytographies: Symmetric Key Cryptography a
 <br/>
 The former uses the same keys for both the encryption of plaintext and the decryption of ciphertext.
 <br/>
-The later, sometimes also called public key crytography, uses pairs of related keys. Each key pair consists of a public key and a corresponding private key. The keys are generated with cryptographic algorithms based on one-way(trapdoor) functions. 
+The later, sometimes also called public key crytography, uses pairs of related keys. Each key pair consists of a public key and a corresponding private key and is generated with one-way(trapdoor) functions. 
 
 ## Symmetric Key Cryptography
 ### AES
